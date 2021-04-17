@@ -22,6 +22,7 @@ Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](http
 - https://www.memcode.com/courses/4038
 - https://www.memcode.com/courses/4049
 - https://www.memcode.com/courses/4054
+- https://www.memcode.com/courses/4056
 
 ### Status
 Der derzeitige Status ist im [ZenHub Kanban Board](https://app.zenhub.com/workspaces/open-law-austria-5f341d4316010a00180099ff) zu finden.
