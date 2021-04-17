@@ -24,9 +24,6 @@ Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](http
 - https://www.memcode.com/courses/4054
 - https://www.memcode.com/courses/4056
 
-### Status
-Der derzeitige Status ist im [ZenHub Kanban Board](https://app.zenhub.com/workspaces/open-law-austria-5f341d4316010a00180099ff) zu finden.
-
 ## Code of Conduct
 Wir erwarten von allen Teilnehmern an diesem Projekt, dass der [Code of Conduct](./CODE_OF_CONDUCT) eingehalten wird. 
 Verstöße können via [Issue](/../../issues/new?assignees=daniel-eder&labels=code+of+conduct&template=code-of-conduct-versto-.md&title=%5BCode+of+Conduct%5D+) gemeldet werden. 
