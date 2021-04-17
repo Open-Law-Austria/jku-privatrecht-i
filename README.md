@@ -3,10 +3,25 @@
 In diesem Repository befinden sich Unterlagen für Privatrecht I.
 
 ## Flashcards / Spaced Repetition
-Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/ verfügbar:
-- KS Test 1: https://www.memcode.com/courses/3044
-- KS Test 2: TBD
-- KS Test 3: TBD
+Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/ verfügbar. Die Karten sind nach Kapitel im Buch in Kurse eingeteilt: 
+
+https://www.memcode.com/courses/3809
+https://www.memcode.com/courses/3892
+https://www.memcode.com/courses/3876
+https://www.memcode.com/courses/3945
+https://www.memcode.com/courses/3882
+https://www.memcode.com/courses/3917
+https://www.memcode.com/courses/3950
+https://www.memcode.com/courses/3915
+https://www.memcode.com/courses/3941
+https://www.memcode.com/courses/3952
+https://www.memcode.com/courses/3955
+https://www.memcode.com/courses/3966
+https://www.memcode.com/courses/4031
+https://www.memcode.com/courses/4032
+https://www.memcode.com/courses/4038
+https://www.memcode.com/courses/4049
+https://www.memcode.com/courses/4054
 
 ### Status
 Der derzeitige Status ist im [ZenHub Kanban Board](https://app.zenhub.com/workspaces/open-law-austria-5f341d4316010a00180099ff) zu finden.
