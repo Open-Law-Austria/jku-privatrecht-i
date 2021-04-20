@@ -23,6 +23,7 @@ Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](http
 - https://www.memcode.com/courses/4049
 - https://www.memcode.com/courses/4054
 - https://www.memcode.com/courses/4056
+- https://www.memcode.com/courses/4070
 
 ## Code of Conduct
 Wir erwarten von allen Teilnehmern an diesem Projekt, dass der [Code of Conduct](./CODE_OF_CONDUCT) eingehalten wird. 
